@@ -2,7 +2,7 @@
 
 **Full Stack Developer**
 
-I build products end to end, from the first idea and schema sketch to production deployments that real users rely on. I work across the stack: interfaces that feel fast, APIs that hold up, and databases and infra that stay reliable as they grow.
+I build products end to end, from the first idea to production deployments that real users rely on.
 
 
 ## 🛠️ Tech Stack
