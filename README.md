@@ -4,6 +4,10 @@
 
 I build products end to end, from the first idea to production deployments that real users rely on.
 
+**Projects**:
+
+Ezpayd - https://ezpayd.vercel.app/
+
 
 ## 🛠️ Tech Stack
 
